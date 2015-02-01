@@ -17,17 +17,25 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
 <<<<<<< HEAD
+<<<<<<< HEAD
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="laura" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="iFe-0G-MhL">
                                 <rect key="frame" x="274" y="88" width="53" height="30"/>
+=======
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="laura" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="iFe-0G-MhL">
+                                <rect key="frame" x="273.5" y="88" width="53" height="30"/>
+>>>>>>> parent of 4e5cc78... moved text fields
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Yse-L8-rd7">
                                 <rect key="frame" x="316" y="152" width="97" height="30"/>
+<<<<<<< HEAD
 =======
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="iFe-0G-MhL">
                                 <rect key="frame" x="16" y="48" width="568" height="30"/>
 >>>>>>> FETCH_HEAD
+=======
+>>>>>>> parent of 4e5cc78... moved text fields
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
@@ -40,6 +48,7 @@
                                     <segue destination="bPs-ql-0ls" kind="show" id="hbo-lQ-Yjj"/>
                                 </connections>
                             </button>
+<<<<<<< HEAD
 <<<<<<< HEAD
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0o1-p9-5oO">
                                 <rect key="frame" x="265" y="341" width="54" height="30"/>
@@ -57,6 +66,8 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
 >>>>>>> FETCH_HEAD
+=======
+>>>>>>> parent of 4e5cc78... moved text fields
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
