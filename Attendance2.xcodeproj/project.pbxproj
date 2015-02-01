@@ -15,6 +15,7 @@
 		7C30E5111A7E7131001530AE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C30E50F1A7E7131001530AE /* LaunchScreen.xib */; };
 		7C30E51D1A7E7131001530AE /* Attendance2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C30E51C1A7E7131001530AE /* Attendance2Tests.m */; };
 		7C30E5281A7E72D7001530AE /* StudentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C30E5271A7E72D7001530AE /* StudentViewController.m */; };
+		8B0D12DC1A7E76BD00746B73 /* FacultyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B0D12DB1A7E76BD00746B73 /* FacultyViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		7C30E51C1A7E7131001530AE /* Attendance2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Attendance2Tests.m; sourceTree = "<group>"; };
 		7C30E5261A7E72D7001530AE /* StudentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StudentViewController.h; sourceTree = "<group>"; };
 		7C30E5271A7E72D7001530AE /* StudentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StudentViewController.m; sourceTree = "<group>"; };
+		8B0D12DA1A7E76BD00746B73 /* FacultyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FacultyViewController.h; sourceTree = "<group>"; };
+		8B0D12DB1A7E76BD00746B73 /* FacultyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FacultyViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				7C30E5071A7E7131001530AE /* ViewController.h */,
 				7C30E5081A7E7131001530AE /* ViewController.m */,
 				7C30E50A1A7E7131001530AE /* Main.storyboard */,
+				8B0D12DA1A7E76BD00746B73 /* FacultyViewController.h */,
+				8B0D12DB1A7E76BD00746B73 /* FacultyViewController.m */,
 				7C30E5261A7E72D7001530AE /* StudentViewController.h */,
 				7C30E5271A7E72D7001530AE /* StudentViewController.m */,
 				7C30E50D1A7E7131001530AE /* Images.xcassets */,
@@ -227,6 +232,7 @@
 				7C30E5281A7E72D7001530AE /* StudentViewController.m in Sources */,
 				7C30E5091A7E7131001530AE /* ViewController.m in Sources */,
 				7C30E5061A7E7131001530AE /* AppDelegate.m in Sources */,
+				8B0D12DC1A7E76BD00746B73 /* FacultyViewController.m in Sources */,
 				7C30E5031A7E7131001530AE /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -418,6 +424,7 @@
 				7C30E5221A7E7131001530AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C30E5231A7E7131001530AE /* Build configuration list for PBXNativeTarget "Attendance2Tests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +433,7 @@
 				7C30E5251A7E7131001530AE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
