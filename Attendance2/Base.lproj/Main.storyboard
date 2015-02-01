@@ -16,6 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
+<<<<<<< HEAD
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="laura" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="iFe-0G-MhL">
                                 <rect key="frame" x="274" y="88" width="53" height="30"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -23,6 +24,10 @@
                             </textField>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Yse-L8-rd7">
                                 <rect key="frame" x="316" y="152" width="97" height="30"/>
+=======
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="iFe-0G-MhL">
+                                <rect key="frame" x="16" y="48" width="568" height="30"/>
+>>>>>>> FETCH_HEAD
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
@@ -35,6 +40,7 @@
                                     <segue destination="bPs-ql-0ls" kind="show" id="hbo-lQ-Yjj"/>
                                 </connections>
                             </button>
+<<<<<<< HEAD
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0o1-p9-5oO">
                                 <rect key="frame" x="265" y="341" width="54" height="30"/>
                                 <state key="normal" title="Teacher">
@@ -44,6 +50,13 @@
                                     <segue destination="9VI-aW-Ogm" kind="show" id="oMR-YC-EMa"/>
                                 </connections>
                             </button>
+=======
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="Yse-L8-rd7">
+                                <rect key="frame" x="16" y="145" width="568" height="30"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+>>>>>>> FETCH_HEAD
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
