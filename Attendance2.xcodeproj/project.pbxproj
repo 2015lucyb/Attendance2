@@ -14,6 +14,7 @@
 		7C30E50E1A7E7131001530AE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C30E50D1A7E7131001530AE /* Images.xcassets */; };
 		7C30E5111A7E7131001530AE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C30E50F1A7E7131001530AE /* LaunchScreen.xib */; };
 		7C30E51D1A7E7131001530AE /* Attendance2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C30E51C1A7E7131001530AE /* Attendance2Tests.m */; };
+		7C30E5281A7E72D7001530AE /* StudentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C30E5271A7E72D7001530AE /* StudentViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		7C30E5161A7E7131001530AE /* Attendance2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Attendance2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C30E51B1A7E7131001530AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C30E51C1A7E7131001530AE /* Attendance2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Attendance2Tests.m; sourceTree = "<group>"; };
+		7C30E5261A7E72D7001530AE /* StudentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StudentViewController.h; sourceTree = "<group>"; };
+		7C30E5271A7E72D7001530AE /* StudentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StudentViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 				7C30E5071A7E7131001530AE /* ViewController.h */,
 				7C30E5081A7E7131001530AE /* ViewController.m */,
 				7C30E50A1A7E7131001530AE /* Main.storyboard */,
+				7C30E5261A7E72D7001530AE /* StudentViewController.h */,
+				7C30E5271A7E72D7001530AE /* StudentViewController.m */,
 				7C30E50D1A7E7131001530AE /* Images.xcassets */,
 				7C30E50F1A7E7131001530AE /* LaunchScreen.xib */,
 				7C30E5001A7E7131001530AE /* Supporting Files */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C30E5281A7E72D7001530AE /* StudentViewController.m in Sources */,
 				7C30E5091A7E7131001530AE /* ViewController.m in Sources */,
 				7C30E5061A7E7131001530AE /* AppDelegate.m in Sources */,
 				7C30E5031A7E7131001530AE /* main.m in Sources */,
